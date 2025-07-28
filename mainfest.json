@@ -1,0 +1,20 @@
+{
+  "package": "george.videoplayer",
+  "name": "视频示例",
+  "icon": "/common/icon.png",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "features": [],
+  "config": {
+    "logLevel": "log",
+    "designWidth": 240
+  },
+  "router": {
+    "entry": "index",
+    "pages": {
+      "index": {
+        "component": "index"
+      }
+    }
+  }
+}
